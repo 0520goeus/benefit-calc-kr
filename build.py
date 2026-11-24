@@ -100,7 +100,8 @@ def write_page(rel: str, title: str, desc: str, body: str, faqs: list[tuple[str,
     <a href="https://0520goeus.github.io/money-calc-kr/">연봉 실수령액</a>
   </nav>
 </div></header>
-<main class="wrap">{body}</main>
+<main class="wrap">{body}<div style="margin:20px auto;max-width:960px;padding:16px 20px;border-radius:14px;background:linear-gradient(135deg,#0f172a,#0f766e);color:#fff;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;"><div><div style="font-weight:800;font-size:16px;">2026 직장인·1인셀러 무매크로 자동계산 엑셀 3종 올인원 번들</div><div style="font-size:13px;opacity:.9;margin-top:2px;">1인셀러 마진·ROAS + 내집마련 매물10개 비교 + 월급 가계부·순자산 대시보드 (즉시 다운로드)</div></div><a href="https://scopekit-studio.lemonsqueezy.com/checkout/buy/ba4f11c6-8609-49c0-a947-39bead163d74" target="_blank" rel="noopener" style="background:#facc15;color:#0f172a;padding:10px 18px;border-radius:10px;font-weight:800;font-size:14px;text-decoration:none;white-space:nowrap;">3종 번들 즉시 다운로드 →</a></div>
+</main>
 <footer><div class="wrap">
   <p>안내: 2026년 대한민국 공개 법령·고시 기준 모의계산기이며, 실제 수급 자격 및 최종 지급액은 국세청 홈택스·고용24·복지로 심사 결과에 따릅니다.</p>
   <p>패밀리 사이트: <a href="https://0520goeus.github.io/price-note/">해뎐 가격노트</a> · <a href="https://0520goeus.github.io/elec-calc/">전기세 얼마</a> · <a href="https://0520goeus.github.io/life-money-lab/">생활비 물가 연구소</a> · <a href="https://0520goeus.github.io/vs-pick/">가성비 VS 사전</a> · <a href="https://0520goeus.github.io/life-fee-calc/">가전용량·직구관세</a> · <a href="https://0520goeus.github.io/money-calc-kr/">실수령액 계산기</a> · <a href="https://0520goeus.github.io/seller-margin-calc/">셀러 마진 계산기</a> · <a href="https://lifefixnote-kr.blogspot.com/">생활해결 노트</a></p>
